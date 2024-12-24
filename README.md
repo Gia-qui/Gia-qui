@@ -36,7 +36,7 @@ style="margin: -100px 0px -90px 0px">
 </ul>
 
 <ul align="center", href="https://github.com/anuraghazra/github-readme-stats">
-<img height=140, src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gia-qui&layout=compact&theme=dark&size_weight=0.2&count_weight=1">
+<img height=140, src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gia-qi&layout=compact&theme=dark&size_weight=0.2&count_weight=1">
 <img height=140, src = "https://github-readme-stats.vercel.app/api?username=Gia-qui&show_icons=true&theme=dark">
 </ul>
 </div>
