@@ -8,7 +8,7 @@ style="margin: -100px 0px -90px 0px">
 <div>
 <ul align="center">
 
-# Greetings 💻, this is Daniele's GitHub page
+# 💻 Greetings, this is Daniele's GitHub page
 ### 24 - Italy 🇮🇹
 
 </ul>
